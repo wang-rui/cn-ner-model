@@ -13,3 +13,9 @@
 #### Output:
   sentiment score
 
+## BERT Abstract Generating model based on Google BERT 
+
+#### Input:
+  extract_abstract(text, title)
+#### Output:
+  abstract
