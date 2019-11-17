@@ -1,0 +1,2 @@
+### Abstact Extraction model based on Google BERT
+The Chinese text abstract model is based on the Google BERT embedding model and DBSCAN clustering model to convert to Chinese sentences to embeddings with neural networks and find the core embeddings with the DBSCAN clustering algorithm. 
