@@ -1,2 +1,2 @@
 kashgari-tf==0.5.3
-tensorflow==1.14.0
+tensorflow==2.9.3
